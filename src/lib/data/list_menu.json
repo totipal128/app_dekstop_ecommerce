@@ -1,0 +1,42 @@
+[
+    {
+      "label": "Dashboard",
+      "link": "/dashboard",
+      "icon": "<i class='fi fi-rr-dashboard-panel'></i>",
+      "is_dropdown": false,
+      "sub_menu": [
+        {
+          "label": "sub 1",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "label": "Pembelian",
+      "link": "/purchase",
+      "icon": "<i class='fi fi-rs-cash-register'></i>",
+      "is_dropdown": false,
+      "sub_menu": []
+    },
+    {
+      "label": "Penjualan",
+      "link": "/sale",
+      "icon": "<i class='fi fi-rr-shopping-bag'></i>",
+      "is_dropdown": false,
+      "sub_menu": []
+    },
+    {
+      "label": "Mater Data",
+      "link": "/master-data",
+      "icon": "<i class='fi fi-rr-table'></i>",
+      "is_dropdown": false,
+      "sub_menu": []
+    },
+    {
+      "label": "Preference",
+      "link": "/preference",
+      "icon": "<i class='fi fi-bs-gears'></i>",
+      "is_dropdown": false,
+      "sub_menu": []
+    }
+]
